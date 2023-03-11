@@ -6,7 +6,7 @@ args = sys.argv #arg introduced in console:    aleatorio.py {hexadecimal numbers
 n = int(args[1]) #arg parsed to int
 
 name = input("Give the name of the file to create: ") #input the file name
-file_name = name + ".txt"
+file_name = name + ".asm"
 file = open(file_name, "w") #create the file or rewrite it
 
 arr = [] #array with random hexadecimals on it

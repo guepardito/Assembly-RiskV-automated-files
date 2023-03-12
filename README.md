@@ -1,2 +1,2 @@
 # Assembly-RiskV-automated-files
-Python scripts to create files of riskV
+Python scripts to create files of assembly riskV
